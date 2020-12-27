@@ -1,0 +1,12 @@
+Ans1 => Redux, beacuse redux-devtools make it easy for debuging in my app
+
+Ans2 => Best Practices
+		=> 1. Platform specific styles
+		=> 2. Component Reusability
+		=> 3. Hooks
+		=> 4. Centralize State Management (Redux)
+		=> 5. ternary operators
+
+Ans3 => Dry, Because if we do not repeat our code our application size is reducing and application run faster & smooth
+
+Ans4 => vanilla react-native, Because Application size will be small and Link easily native modules
